@@ -29,3 +29,9 @@ function makeInt(n) {
   parseInt('n',10)
   return (parseInt())
 }
+
+function preserveDecimal(n) {
+  var n = 5.55
+  parseFloat('n')
+  return (parseFloat('n'))
+}
