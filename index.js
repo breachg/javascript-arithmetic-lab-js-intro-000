@@ -9,5 +9,5 @@ function divide() {}
  number = 10
 
 function increment() {
-  return ( number +=1){}
+  return ( number +=1)
 }
