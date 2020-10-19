@@ -7,5 +7,5 @@ function multiply() {}
 function divide() {}
 
 function increment() {
-  return ("n" +=1)
+  return (n +=1)
 }
