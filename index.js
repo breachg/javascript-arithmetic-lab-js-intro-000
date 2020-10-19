@@ -14,8 +14,6 @@ function divide(a,b) {
   return (a/b)
 }
 
-var n = 5
-
 function increment(n) {
   return (n += 1)
 }
@@ -26,6 +24,6 @@ function decrement(n) {
 
 
 function makeInt(n) {
-  return
-  parseInt('5', 10)
+  return parseInt(n,10)
 }
+
