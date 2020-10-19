@@ -6,6 +6,8 @@ function multiply() {}
 
 function divide() {}
 
+var number = "5"
+
 function increment() {
-  return (n +=1)
+  return (number +=1)
 }
