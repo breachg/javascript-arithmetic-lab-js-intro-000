@@ -6,8 +6,8 @@ function multiply() {}
 
 function divide() {}
 
-var number = 131
+var n = 5
 
-function increment() {
-  return (number += 1)
+function increment(n) {
+  return (n += 1)
 }
