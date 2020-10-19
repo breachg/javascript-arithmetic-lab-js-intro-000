@@ -9,5 +9,5 @@ function divide() {}
 var number = 5
 
 function increment() {
-  return (number += 1)
+  number += 1
 }
