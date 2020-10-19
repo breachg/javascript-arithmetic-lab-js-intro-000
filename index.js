@@ -12,6 +12,6 @@ function increment(n) {
   return (n += 1)
 }
 
-funtion decrement(n) {
+function decrement(n) {
    return (n -= 1)
 }
