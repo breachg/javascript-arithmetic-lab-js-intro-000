@@ -6,7 +6,7 @@ function multiply() {}
 
 function divide() {}
 
- var number = 10
+ var number = 53
 
 function increment() {
   return ( number +=1)
